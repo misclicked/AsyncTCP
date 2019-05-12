@@ -1,0 +1,7 @@
+c:\users\misclicked\source\repos\AsyncTCPClient\AsyncTCPClient\obj\Debug\AsyncTCPClient.csprojResolveAssemblyReference.cache
+c:\users\misclicked\source\repos\AsyncTCPClient\AsyncTCPClient\obj\Debug\AsyncTCPClient.csproj.CoreCompileInputs.cache
+c:\users\misclicked\source\repos\AsyncTCPClient\AsyncTCPClient\bin\Debug\AsyncTCPClient.exe.config
+c:\users\misclicked\source\repos\AsyncTCPClient\AsyncTCPClient\bin\Debug\AsyncTCPClient.exe
+c:\users\misclicked\source\repos\AsyncTCPClient\AsyncTCPClient\bin\Debug\AsyncTCPClient.pdb
+c:\users\misclicked\source\repos\AsyncTCPClient\AsyncTCPClient\obj\Debug\AsyncTCPClient.exe
+c:\users\misclicked\source\repos\AsyncTCPClient\AsyncTCPClient\obj\Debug\AsyncTCPClient.pdb
